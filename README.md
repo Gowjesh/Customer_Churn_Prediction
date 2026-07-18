@@ -146,7 +146,7 @@ Customer-Churn-Prediction/
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/customer-churn-prediction.git
+git clone https://github.com/Gowjesh/Customer_Churn_Predictionn.git
 ```
 
 Move to the project directory:
