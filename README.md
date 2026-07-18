@@ -189,3 +189,9 @@ streamlit run app.py
 - Add Explainable AI (XAI) techniques.
 - Support real-time predictions using APIs.
 - Create an interactive dashboard with more visualizations. 
+
+## Output
+
+<img width="1825" height="682" alt="image" src="https://github.com/user-attachments/assets/acce578c-1f89-463a-8dae-964bddbacb30" />
+
+<img width="1818" height="684" alt="image" src="https://github.com/user-attachments/assets/35141cd1-a50a-4087-9c1c-84d78267d3f8" />
